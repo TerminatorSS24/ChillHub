@@ -4,7 +4,7 @@ ChillHub is a full-stack Netflix clone built with React, Firebase Authentication
 
 ## 🚀 Live Preview
 
-**[View Live Site]([https://your-deployed-url.netlify.app/](https://chill-hub-rho.vercel.app/))**
+**[View Live Site]([https://chill-hub-rho.vercel.app/])**
 
 ---
 
